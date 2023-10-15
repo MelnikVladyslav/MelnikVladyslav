@@ -32,7 +32,7 @@
 </p>
 
 * My Novel Game - it's my first novel game build in Unity;
-* This is one of my first projects on Unity, which was developed on Novel Game Jam
+* This is one of my first projects on Unity, which was developed on Ukranian Visual Novel Jam #2
 
 ## [PHP]([https://github.com/MelnikVladyslav/PHP]) 
 <p align="left"> <a href="https://github.com/MelnikVladyslav/PHP" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
