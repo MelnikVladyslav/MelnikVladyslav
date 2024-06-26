@@ -1,5 +1,12 @@
 <a href="mailto:melnikvlad2222@gmail.comm"><img src="https://github.com/MelnikVladyslav/images/blob/main/img1.jpg" wight = 50px height = 50px></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/владислав-мельник-131057294" target="_blank"><img src="https://github.com/MelnikVladyslav/images/blob/main/img.jpg" wight = 50px height = 50px></a>
 
+## [Test task React]([(https://github.com/MelnikVladyslav/ad-dashboard)])
+<p align="left"> <a href="https://github.com/MelnikVladyslav/ad-dashboard" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
+</p>
+
+* Test task React - this is a test task i did at Amazon on React
+
+  
 ## [Test Android]([https://github.com/MelnikVladyslav/Android])
 <p align="left"> <a href="https://github.com/MelnikVladyslav/Android/tree/main" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
 </p>
@@ -8,18 +15,14 @@
 * As s sole developer I fully designed and implemented front-end and back-end solutions;
 * Server side is built with AspNet Core WebApi net 6.0 programming language;
 * Android side is built with Java programming language;
-* Database - PostgresQL. Hosted on AWS.
 
 ## [Java]([https://github.com/MelnikVladyslav/Java/tree/main])
 <p align="left"> <a href="https://github.com/MelnikVladyslav/Java/tree/main" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
 </p>
 
 * Test repository Java
-* As s sole developer I fully designed and implemented front-end and back-end solutions;
-* Server side is built with AspNet Core WebApi net 6.0 programming language;
-* Android side is built with Java programming language;
-* Database - PostgresQL. Hosted on AWS.
 
+  
 ## [My project]([https://github.com/MelnikVladyslav/MyProject])
 <p align="left"> <a href="https://github.com/MelnikVladyslav/MyProject" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
 </p>
@@ -61,7 +64,24 @@
 </p>
 
 * This is aplication Drive.
-* Wrote on Java in Android Studio 
+* Wrote on Java in Android Studio
+
+# ParadoxPlayHub
+<p align="left"> This is my project, which I wrote for myself. It was supposed to be a game store, like steam. </p>
+
+## [backend ParadoxPlayHub]([(https://github.com/MelnikVladyslav/ParadoxPlayHub-backend)]) 
+<p align="left"> <a href="https://github.com/MelnikVladyslav/ParadoxPlayHub-backend" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
+</p>
+
+* This is backend to site ParadoxPlayHub.
+* Wrote on Asp Net Core Web Api Net 6.0
+
+## [frontend ParadoxPlayHub]([(https://github.com/MelnikVladyslav/ParadoxPlayHub-frontend)]) 
+<p align="left"> <a href="https://github.com/MelnikVladyslav/ParadoxPlayHub-frontend" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
+</p>
+
+* This is site ParadoxPlayHub.
+* Wrote on React in Visual Studio Code. 
 
 ## Thanks for stopping by!
 
