@@ -1,4 +1,4 @@
-<a href="mailto:melnikvlad2222@gmail.comm"><img src="https://github.com/MelnikVladyslav/images/blob/main/img1.jpg" wight = 50px height = 50px></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/владислав-мельник-131057294" target="_blank"><img src="https://github.com/MelnikVladyslav/images/blob/main/img.jpg" wight = 50px height = 50px></a>
+<a href="mailto:melnikvlad2222@gmail.comm"><img src="https://github.com/MelnikVladyslav/images/blob/main/img1.jpg" wight = 50px height = 50px></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/владислав-мельник-131057294" target="_blank"><img src="https://github.com/MelnikVladyslav/images/blob/main/img.jpg" wight = 50px height = 50px></a>
 
 ## [Choice of a Nation]([(https://github.com/Choise-of-a-Nation)])
 <p align="left"> <a href="https://github.com/Choise-of-a-Nation" download><img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="170" > 
